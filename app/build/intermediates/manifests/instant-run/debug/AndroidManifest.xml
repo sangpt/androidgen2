@@ -20,6 +20,7 @@
             </intent-filter>
         </activity>
         <activity android:name="apt.tutorial.DetailForm" />
+        <activity android:name="apt.tutorial.EditPreferences" />
 
         <service
             android:name="com.android.tools.fd.runtime.InstantRunService"

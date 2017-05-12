@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="apt.tutorial.test">
+    package="apt.tutorial11.test">
 
     <uses-sdk android:minSdkVersion="1" android:targetSdkVersion="1" />
 
@@ -9,8 +9,8 @@
     </application>
 
     <instrumentation android:name="android.test.InstrumentationTestRunner"
-                     android:targetPackage="apt.tutorial"
+                     android:targetPackage="apt.tutorial11"
                      android:handleProfiling="false"
                      android:functionalTest="false"
-                     android:label="Tests for apt.tutorial"/>
+                     android:label="Tests for apt.tutorial11"/>
 </manifest>

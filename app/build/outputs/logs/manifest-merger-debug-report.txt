@@ -27,7 +27,7 @@ application
 ADDED from /home/sangpham/androidgen2/app/src/main/AndroidManifest.xml:11:5-20:19
 	android:label
 		ADDED from /home/sangpham/androidgen2/app/src/main/AndroidManifest.xml:11:18-50
-activity#apt.tutorial5.LunchList
+activity#apt.tutorial8.LunchList
 ADDED from /home/sangpham/androidgen2/app/src/main/AndroidManifest.xml:12:9-19:20
 	android:label
 		ADDED from /home/sangpham/androidgen2/app/src/main/AndroidManifest.xml:14:13-45

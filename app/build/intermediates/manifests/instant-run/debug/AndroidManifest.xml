@@ -11,7 +11,7 @@
 
     <application android:label="@string/app_name" >
         <activity
-            android:name="apt.tutorial.LunchList"
+            android:name="apt.tutorial5.LunchList"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -19,12 +19,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="apt.tutorial.DetailForm" />
-        <activity android:name="apt.tutorial.EditPreferences" />
 
-        <service
-            android:name="com.android.tools.fd.runtime.InstantRunService"
-            android:exported="true" />
+        <provider
+            android:name="com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:authorities="apt.tutorial.com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:multiprocess="true" />
     </application>
 
 </manifest>

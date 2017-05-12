@@ -1,7 +1,7 @@
-#Sun Apr 23 15:15:57 ICT 2017
-base.0=C\:\\Users\\IS\\Desktop\\LunchList\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_18150580603e68a92e7e1c37a52308354cb9a859
+#Fri May 12 12:05:32 ICT 2017
+base.0=/home/sangpham/androidgen2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a475ab03a2e4a6665d33bf2b10e6b6a66d7cb916
 renamed.1=classes.dex
 renamed.0=classes2.dex
-file.1=C\:\\Users\\IS\\Desktop\\LunchList\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b331c5f333bdc79dc2e29bda864037ab91b5f1eb\\classes.dex
-base.1=C\:\\Users\\IS\\Desktop\\LunchList\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b331c5f333bdc79dc2e29bda864037ab91b5f1eb
-file.0=C\:\\Users\\IS\\Desktop\\LunchList\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_18150580603e68a92e7e1c37a52308354cb9a859\\classes.dex
+file.1=/home/sangpham/androidgen2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ad9b03d4e8fe7e0442e90397c187ae144220781f/classes.dex
+base.1=/home/sangpham/androidgen2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ad9b03d4e8fe7e0442e90397c187ae144220781f
+file.0=/home/sangpham/androidgen2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a475ab03a2e4a6665d33bf2b10e6b6a66d7cb916/classes.dex

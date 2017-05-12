@@ -1,38 +1,34 @@
 [
     {
-        "merged": "C:\\Users\\IS\\Desktop\\LunchList\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\run.png",
-        "source": "C:\\Users\\IS\\Desktop\\LunchList\\app\\src\\main\\res\\drawable\\run.png"
+        "merged": "/home/sangpham/androidgen2/app/build/intermediates/res/merged/debug/drawable/ball_red.png",
+        "source": "/home/sangpham/androidgen2/app/src/main/res/drawable/ball_red.png"
     },
     {
-        "merged": "C:\\Users\\IS\\Desktop\\LunchList\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_preferences.png",
-        "source": "C:\\Users\\IS\\Desktop\\LunchList\\app\\src\\main\\res\\drawable\\ic_menu_preferences.png"
+        "merged": "/home/sangpham/androidgen2/app/build/intermediates/res/merged/debug/drawable/ic_menu_add.png",
+        "source": "/home/sangpham/androidgen2/app/src/main/res/drawable/ic_menu_add.png"
     },
     {
-        "merged": "C:\\Users\\IS\\Desktop\\LunchList\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ball_yellow.png",
-        "source": "C:\\Users\\IS\\Desktop\\LunchList\\app\\src\\main\\res\\drawable\\ball_yellow.png"
+        "merged": "/home/sangpham/androidgen2/app/build/intermediates/res/merged/debug/drawable/toast.png",
+        "source": "/home/sangpham/androidgen2/app/src/main/res/drawable/toast.png"
     },
     {
-        "merged": "C:\\Users\\IS\\Desktop\\LunchList\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\restaurant.png",
-        "source": "C:\\Users\\IS\\Desktop\\LunchList\\app\\src\\main\\res\\drawable\\restaurant.png"
+        "merged": "/home/sangpham/androidgen2/app/build/intermediates/res/merged/debug/drawable/list.png",
+        "source": "/home/sangpham/androidgen2/app/src/main/res/drawable/list.png"
     },
     {
-        "merged": "C:\\Users\\IS\\Desktop\\LunchList\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_add.png",
-        "source": "C:\\Users\\IS\\Desktop\\LunchList\\app\\src\\main\\res\\drawable\\ic_menu_add.png"
+        "merged": "/home/sangpham/androidgen2/app/build/intermediates/res/merged/debug/drawable/ball_green.png",
+        "source": "/home/sangpham/androidgen2/app/src/main/res/drawable/ball_green.png"
     },
     {
-        "merged": "C:\\Users\\IS\\Desktop\\LunchList\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list.png",
-        "source": "C:\\Users\\IS\\Desktop\\LunchList\\app\\src\\main\\res\\drawable\\list.png"
+        "merged": "/home/sangpham/androidgen2/app/build/intermediates/res/merged/debug/drawable/run.png",
+        "source": "/home/sangpham/androidgen2/app/src/main/res/drawable/run.png"
     },
     {
-        "merged": "C:\\Users\\IS\\Desktop\\LunchList\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\toast.png",
-        "source": "C:\\Users\\IS\\Desktop\\LunchList\\app\\src\\main\\res\\drawable\\toast.png"
+        "merged": "/home/sangpham/androidgen2/app/build/intermediates/res/merged/debug/drawable/restaurant.png",
+        "source": "/home/sangpham/androidgen2/app/src/main/res/drawable/restaurant.png"
     },
     {
-        "merged": "C:\\Users\\IS\\Desktop\\LunchList\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ball_red.png",
-        "source": "C:\\Users\\IS\\Desktop\\LunchList\\app\\src\\main\\res\\drawable\\ball_red.png"
-    },
-    {
-        "merged": "C:\\Users\\IS\\Desktop\\LunchList\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ball_green.png",
-        "source": "C:\\Users\\IS\\Desktop\\LunchList\\app\\src\\main\\res\\drawable\\ball_green.png"
+        "merged": "/home/sangpham/androidgen2/app/build/intermediates/res/merged/debug/drawable/ic_menu_preferences.png",
+        "source": "/home/sangpham/androidgen2/app/src/main/res/drawable/ic_menu_preferences.png"
     }
 ]

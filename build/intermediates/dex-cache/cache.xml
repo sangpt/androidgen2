@@ -3,21 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\IS\Desktop\LunchList\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jar="/home/sangpham/androidgen2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="8262dc83dd0b1ed781c01ded3fd9f75ef71932ae">
-        <dex dex="C:\Users\IS\Desktop\LunchList\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_18150580603e68a92e7e1c37a52308354cb9a859\classes.dex" />
+        sha1="3c8e4c11f8ecfc2004a764ab5b4e622d1158d42b">
+        <dex dex="/home/sangpham/androidgen2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a475ab03a2e4a6665d33bf2b10e6b6a66d7cb916/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\IS\Desktop\LunchList\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="/home/sangpham/androidgen2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
-        <dex dex="C:\Users\IS\Desktop\LunchList\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_b331c5f333bdc79dc2e29bda864037ab91b5f1eb\classes.dex" />
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/home/sangpham/androidgen2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ad9b03d4e8fe7e0442e90397c187ae144220781f/classes.dex" />
     </item>
 
 </items>

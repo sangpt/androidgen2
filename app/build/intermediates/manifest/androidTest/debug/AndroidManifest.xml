@@ -9,8 +9,8 @@
     </application>
 
     <instrumentation android:name="android.test.InstrumentationTestRunner"
-                     android:targetPackage="apt.tutorial"
+                     android:targetPackage="apt.tutorial8"
                      android:handleProfiling="false"
                      android:functionalTest="false"
-                     android:label="Tests for apt.tutorial"/>
+                     android:label="Tests for apt.tutorial8"/>
 </manifest>

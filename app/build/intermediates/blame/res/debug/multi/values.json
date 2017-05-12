@@ -33,8 +33,8 @@
                     "startLine": 16,
                     "startColumn": 4,
                     "startOffset": 531,
-                    "endColumn": 47,
-                    "endOffset": 574
+                    "endColumn": 48,
+                    "endOffset": 575
                 },
                 "from": {
                     "file": "/home/sangpham/androidgen2/app/src/main/res/values/strings.xml",
@@ -42,8 +42,8 @@
                         "startLine": 2,
                         "startColumn": 4,
                         "startOffset": 55,
-                        "endColumn": 47,
-                        "endOffset": 98
+                        "endColumn": 48,
+                        "endOffset": 99
                     }
                 }
             }

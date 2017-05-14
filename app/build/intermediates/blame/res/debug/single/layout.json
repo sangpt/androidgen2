@@ -1,14 +1,14 @@
 [
     {
-        "merged": "C:\\Users\\IS\\Desktop\\LunchList\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
-        "source": "C:\\Users\\IS\\Desktop\\LunchList\\app\\src\\main\\res\\layout\\main.xml"
+        "merged": "/home/sangpham/androidgen2/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/sangpham/androidgen2/app/src/main/res/layout/main.xml"
     },
     {
-        "merged": "C:\\Users\\IS\\Desktop\\LunchList\\app\\build\\intermediates\\res\\merged\\debug\\layout\\detail_form.xml",
-        "source": "C:\\Users\\IS\\Desktop\\LunchList\\app\\src\\main\\res\\layout\\detail_form.xml"
+        "merged": "/home/sangpham/androidgen2/app/build/intermediates/res/merged/debug/layout/row.xml",
+        "source": "/home/sangpham/androidgen2/app/src/main/res/layout/row.xml"
     },
     {
-        "merged": "C:\\Users\\IS\\Desktop\\LunchList\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row.xml",
-        "source": "C:\\Users\\IS\\Desktop\\LunchList\\app\\src\\main\\res\\layout\\row.xml"
+        "merged": "/home/sangpham/androidgen2/app/build/intermediates/res/merged/debug/layout/detail_form.xml",
+        "source": "/home/sangpham/androidgen2/app/src/main/res/layout/detail_form.xml"
     }
 ]

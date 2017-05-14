@@ -28,6 +28,10 @@
         "source": "/home/sangpham/androidgen2/app/src/main/res/drawable/restaurant.png"
     },
     {
+        "merged": "/home/sangpham/androidgen2/app/build/intermediates/res/merged/debug/drawable/ball_yellow.png",
+        "source": "/home/sangpham/androidgen2/app/src/main/res/drawable/ball_yellow.png"
+    },
+    {
         "merged": "/home/sangpham/androidgen2/app/build/intermediates/res/merged/debug/drawable/ic_menu_preferences.png",
         "source": "/home/sangpham/androidgen2/app/src/main/res/drawable/ic_menu_preferences.png"
     }

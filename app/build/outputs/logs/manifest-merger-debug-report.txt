@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/sangpham/androidgen2/app/src/main/AndroidManifest.xml:2:1-21:12
+ADDED from /home/sangpham/androidgen2/app/src/main/AndroidManifest.xml:2:1-22:12
 	package
 		ADDED from /home/sangpham/androidgen2/app/src/main/AndroidManifest.xml:3:5-29
 		INJECTED from /home/sangpham/androidgen2/app/src/main/AndroidManifest.xml
@@ -24,10 +24,10 @@ ADDED from /home/sangpham/androidgen2/app/src/main/AndroidManifest.xml:7:5-10:40
 	android:normalScreens
 		ADDED from /home/sangpham/androidgen2/app/src/main/AndroidManifest.xml:9:9-37
 application
-ADDED from /home/sangpham/androidgen2/app/src/main/AndroidManifest.xml:11:5-20:19
+ADDED from /home/sangpham/androidgen2/app/src/main/AndroidManifest.xml:11:5-21:19
 	android:label
 		ADDED from /home/sangpham/androidgen2/app/src/main/AndroidManifest.xml:11:18-50
-activity#apt.tutorial11.LunchList
+activity#apt.tutorial12.LunchList
 ADDED from /home/sangpham/androidgen2/app/src/main/AndroidManifest.xml:12:9-19:20
 	android:label
 		ADDED from /home/sangpham/androidgen2/app/src/main/AndroidManifest.xml:14:13-45
@@ -43,3 +43,7 @@ category#android.intent.category.LAUNCHER
 ADDED from /home/sangpham/androidgen2/app/src/main/AndroidManifest.xml:17:17-77
 	android:name
 		ADDED from /home/sangpham/androidgen2/app/src/main/AndroidManifest.xml:17:27-74
+activity#apt.tutorial12.DetailForm
+ADDED from /home/sangpham/androidgen2/app/src/main/AndroidManifest.xml:20:9-57
+	android:name
+		ADDED from /home/sangpham/androidgen2/app/src/main/AndroidManifest.xml:20:19-45

@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Fri May 12 13:55:17 ICT 2017
+#Sun May 14 20:26:27 ICT 2017
 8.set=ANDROID_RESOURCE
 1.base=/home/sangpham/androidgen2/app/build/intermediates/res/resources-debug.ap_
 1.file=/home/sangpham/androidgen2/app/build/intermediates/res/resources-debug.ap_/res/layout/row.xml
@@ -10,18 +10,19 @@
 5.base=/home/sangpham/androidgen2/app/build/intermediates/res/resources-debug.ap_
 5.file=/home/sangpham/androidgen2/app/build/intermediates/res/resources-debug.ap_/res/drawable/ball_green.png
 7.base=/home/sangpham/androidgen2/app/build/intermediates/res/resources-debug.ap_
-7.file=/home/sangpham/androidgen2/app/build/intermediates/res/resources-debug.ap_/res/layout-v3/main.xml
-11.file=/home/sangpham/androidgen2/app/build/intermediates/res/resources-debug.ap_/res/layout-land/main.xml
+7.file=/home/sangpham/androidgen2/app/build/intermediates/res/resources-debug.ap_/res/layout/detail_form.xml
+11.file=/home/sangpham/androidgen2/app/build/intermediates/res/resources-debug.ap_/res/drawable/ic_menu_add.png
 11.base=/home/sangpham/androidgen2/app/build/intermediates/res/resources-debug.ap_
 9.base=/home/sangpham/androidgen2/app/build/intermediates/res/resources-debug.ap_
-9.file=/home/sangpham/androidgen2/app/build/intermediates/res/resources-debug.ap_/res/drawable/list.png
-13.file=/home/sangpham/androidgen2/app/build/intermediates/res/resources-debug.ap_/res/drawable/run.png
+9.file=/home/sangpham/androidgen2/app/build/intermediates/res/resources-debug.ap_/res/drawable/restaurant.png
+13.file=/home/sangpham/androidgen2/app/build/intermediates/res/resources-debug.ap_/res/drawable/ball_red.png
 13.base=/home/sangpham/androidgen2/app/build/intermediates/res/resources-debug.ap_
 11.set=ANDROID_RESOURCE
 0.set=ANDROID_RESOURCE
-15.file=/home/sangpham/androidgen2/app/build/intermediates/res/resources-debug.ap_/res/drawable/ball_yellow.png
+15.file=/home/sangpham/androidgen2/app/build/intermediates/res/resources-debug.ap_/res/xml/preferences.xml
 15.base=/home/sangpham/androidgen2/app/build/intermediates/res/resources-debug.ap_
-17.file=/home/sangpham/androidgen2/app/build/intermediates/res/resources-debug.ap_/res/drawable/ic_menu_preferences.png
+18.set=ANDROID_RESOURCE
+17.file=/home/sangpham/androidgen2/app/build/intermediates/res/resources-debug.ap_/res/layout/main.xml
 17.base=/home/sangpham/androidgen2/app/build/intermediates/res/resources-debug.ap_
 7.set=ANDROID_RESOURCE
 14.set=ANDROID_RESOURCE
@@ -38,19 +39,21 @@
 6.base=/home/sangpham/androidgen2/app/build/intermediates/res/resources-debug.ap_
 6.file=/home/sangpham/androidgen2/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
 10.base=/home/sangpham/androidgen2/app/build/intermediates/res/resources-debug.ap_
-10.file=/home/sangpham/androidgen2/app/build/intermediates/res/resources-debug.ap_/res/drawable/ic_menu_add.png
+10.file=/home/sangpham/androidgen2/app/build/intermediates/res/resources-debug.ap_/res/drawable/list.png
 13.set=ANDROID_RESOURCE
 8.base=/home/sangpham/androidgen2/app/build/intermediates/res/resources-debug.ap_
-8.file=/home/sangpham/androidgen2/app/build/intermediates/res/resources-debug.ap_/res/drawable/restaurant.png
+8.file=/home/sangpham/androidgen2/app/build/intermediates/res/resources-debug.ap_/res/layout-v3/detail_form.xml
 2.set=ANDROID_RESOURCE
-12.file=/home/sangpham/androidgen2/app/build/intermediates/res/resources-debug.ap_/res/drawable/ball_red.png
+12.file=/home/sangpham/androidgen2/app/build/intermediates/res/resources-debug.ap_/res/layout-land/main.xml
 12.base=/home/sangpham/androidgen2/app/build/intermediates/res/resources-debug.ap_
-14.file=/home/sangpham/androidgen2/app/build/intermediates/res/resources-debug.ap_/res/xml/preferences.xml
+14.file=/home/sangpham/androidgen2/app/build/intermediates/res/resources-debug.ap_/res/drawable/run.png
 14.base=/home/sangpham/androidgen2/app/build/intermediates/res/resources-debug.ap_
-16.file=/home/sangpham/androidgen2/app/build/intermediates/res/resources-debug.ap_/res/layout/main.xml
+16.file=/home/sangpham/androidgen2/app/build/intermediates/res/resources-debug.ap_/res/drawable/ball_yellow.png
 16.base=/home/sangpham/androidgen2/app/build/intermediates/res/resources-debug.ap_
 9.set=ANDROID_RESOURCE
-count=18
+count=19
+18.file=/home/sangpham/androidgen2/app/build/intermediates/res/resources-debug.ap_/res/drawable/ic_menu_preferences.png
+18.base=/home/sangpham/androidgen2/app/build/intermediates/res/resources-debug.ap_
 16.set=ANDROID_RESOURCE
 5.set=ANDROID_RESOURCE
 12.set=ANDROID_RESOURCE

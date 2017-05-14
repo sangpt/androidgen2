@@ -5,7 +5,7 @@ android {
     buildToolsVersion "25.0.2"
 
     defaultConfig {
-        applicationId "apt.tutorial11"
+        applicationId "apt.tutorial12"
     }
 
     buildTypes {
